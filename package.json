@@ -1,5 +1,5 @@
 {
-  "name": "expo-plugin-keyevent",
+  "name": "expo-plugin-scan-gun",
   "version": "1.0.0",
   "main": "build/withReactNativeKeyevent.js",
   "types": "build/withReactNativeKeyevent.d.ts",
