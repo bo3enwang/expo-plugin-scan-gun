@@ -1,6 +1,6 @@
 {
   "name": "expo-plugin-scan-gun",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "main": "build/withReactNativeKeyevent.js",
   "types": "build/withReactNativeKeyevent.d.ts",
   "sideEffects": false,
